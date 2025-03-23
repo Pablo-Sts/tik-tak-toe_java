@@ -63,7 +63,7 @@ Java Development Kit (JDK) instalado
 
 ## Preview
 
-![Requisição na endpoint de cursos](./.gitassets/1.png)
+![Requisição na endpoint de cursos](./.gitassets/2.png)
 
 ## Links úteis
 
